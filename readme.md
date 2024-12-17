@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **[Job.com](#)**
+- 🔭 I’m currently working on **[Web development](#)**
 - 🌱 I’m currently learning **React, Tailwind CSS, Firebase**
 - 👯 I’m looking to collaborate on **Frontend Projects**
 - 🤝 I’m looking for help with **Backend Integration (Node.js, Supabase)**
