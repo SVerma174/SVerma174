@@ -7,11 +7,11 @@
 
 ---
 
-- 🔭 I’m currently working on **[Web development](#)**
+- 🔭 I’m currently working on **[Data Analyest project ](#)**
 - 🌱 I’m currently learning **Python,SQL**
-- 👯 I’m looking to collaborate on **Fullstack Projects**
+- 👯 I’m looking to collaborate on **Data Analyest projects**
 - 🤝 I’m looking for help with **Backend Integration (Node.js, Supabase)**
-- 💬 Ask me about **HTML,CSS,TAILWIND-CSS,Python,SQL**
+- 💬 Ask me about **HTML,CSS,Python,SQL**
 - 📫 How to reach me: **skshubhamverma12@gmail.com**
 - 📄 Know about my experiences: [Resume](#)
 - ⚡ Fun fact: **I think I am funny 😂**
